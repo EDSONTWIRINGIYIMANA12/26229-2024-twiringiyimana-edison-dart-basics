@@ -1,8 +1,7 @@
-// Fullname: BAHENDA Bruno
-// Reg No: 26886/2024
+// Fullname: Sabato Anick
+// Reg No: 25952/2024
 
 void main() {
-  
   // Output
   // 50
   // 70

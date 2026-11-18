@@ -1,5 +1,5 @@
-// Fullname: BAHENDA Bruno
-// Reg No: 26886/2024
+// Fullname: byukusenge Sabato Anick
+// Reg No: 25952/2024
 
 int countVowels(String text) {
   int count = 0;
@@ -13,7 +13,7 @@ int countVowels(String text) {
 }
 
 void main() {
-  String fullName = "Bahenda Bruno";
+  String fullName = "byukusenge Sabato Anick";
   int vowels = countVowels(fullName);
   print("$fullName has $vowels vowels");
 }
